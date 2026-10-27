@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nithin%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Enthusiast%20%7C%20Teaching%20Assistant%20%40%20NxtWave&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nithin%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Enthusiast%20%7C%20" width="100%"/>
 
 <a href="https://linkedin.com/in/nithin-m-85700a240">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&width=760&height=90&lines=Full+Stack+Developer+%7C+MERN+%2B+AI;Building+LLM-powered+products+with+RAG+%26+Agentic+AI;400%2B+LeetCode+%7C+100%2B+Codeforces+%7C+DSA+enthusiast;Turning+ideas+into+production-ready+apps+%F0%9F%9A%80" alt="Typing SVG" />
