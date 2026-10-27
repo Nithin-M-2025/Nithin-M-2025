@@ -28,7 +28,6 @@ name: Nithin M
 role: Full Stack Developer · AI Integration Enthusiast
 location: Kayamkulam, Kerala, India
 education: B.Tech CSE @ TKM College of Engineering (2023 - 2026)
-currently: Teaching Assistant @ NxtWave — mentoring in DSA, Web Dev & Backend
 focus: MERN Stack · LLMs · RAG · Agentic AI · Competitive Programming
 fun_fact: I enjoy turning plain-English prompts into working, deployed apps ⚡
 ```
